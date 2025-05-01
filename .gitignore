@@ -1,0 +1,35 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# FAISS index directory
+faiss_index/
+
+# Ollama data
+.ollama/
+
+# macOS file
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Promptfoo cache
+.promptfoo/
+
+# Logs & temp
+*.log
+*.tmp

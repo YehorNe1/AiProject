@@ -1,0 +1,61 @@
+[
+  { "name": "Classic Tomato Basil Pasta", "cuisine": "Italian", "tags": ["vegetarian"], "ingredients": ["spaghetti","ripe tomatoes","fresh basil","garlic","olive oil"], "description": "A light 20-minute pasta with bursts of fresh tomato flavour." },
+
+  { "name": "Spicy Black-Bean Tacos", "cuisine": "Mexican", "tags": ["vegan","gluten-free"], "ingredients": ["corn tortillas","black beans","chipotle chilli","avocado","lime"], "description": "Protein-rich tacos with smoky heat and creamy avocado." },
+
+  { "name": "Thai Coconut Curry Soup", "cuisine": "Thai", "tags": ["dairy-free"], "ingredients": ["coconut milk","red curry paste","lemongrass","mushrooms","lime leaves"], "description": "Comforting aromatic soup with gentle spice." },
+
+  { "name": "Mediterranean Quinoa Salad", "cuisine": "Mediterranean", "tags": ["vegan","salad"], "ingredients": ["quinoa","cucumber","cherry tomatoes","olives","lemon"], "description": "Colourful salad packed with plant protein." },
+
+  { "name": "Ginger-Soy Glazed Salmon", "cuisine": "Asian-Fusion", "tags": ["pescatarian"], "ingredients": ["salmon","soy sauce","ginger","sesame oil","spring onions"], "description": "Sweet–savory glaze with aromatic ginger." },
+
+  { "name": "Moroccan Chickpea Stew", "cuisine": "Moroccan", "tags": ["vegan"], "ingredients": ["chickpeas","tomatoes","apricots","cumin","cinnamon"], "description": "Hearty stew with warm spices and sweet notes." },
+
+  { "name": "Mushroom Risotto", "cuisine": "Italian", "tags": ["vegetarian","gluten-free"], "ingredients": ["arborio rice","porcini mushrooms","parmesan","white wine","thyme"], "description": "Creamy risotto loaded with earthy mushrooms." },
+
+  { "name": "Korean BBQ Lettuce Wraps", "cuisine": "Korean", "tags": ["dairy-free"], "ingredients": ["lettuce leaves","bulgogi beef","kimchi","gochujang","sesame seeds"], "description": "Hands-on wraps with bold Korean flavours." },
+
+  { "name": "Cauliflower Buffalo Bites", "cuisine": "American", "tags": ["vegan","snack"], "ingredients": ["cauliflower","hot sauce","garlic powder","flour","plant milk"], "description": "Crispy, spicy and perfect for game day." },
+
+  { "name": "Matcha Chia Pudding", "cuisine": "Fusion", "tags": ["vegan","dessert"], "ingredients": ["chia seeds","plant milk","matcha powder","maple syrup","vanilla"], "description": "Make-ahead green-tea dessert with super-food vibes." },
+
+  { "name": "Lebanese Tabbouleh", "cuisine": "Middle Eastern", "tags": ["vegan"], "ingredients": ["bulgur","parsley","mint","tomatoes","lemon"], "description": "Fresh herb salad with citrus zing." },
+
+  { "name": "Spanish Gazpacho", "cuisine": "Spanish", "tags": ["vegetarian","gluten-free"], "ingredients": ["ripe tomatoes","cucumber","bell pepper","olive oil","sherry vinegar"], "description": "Chilled summer soup ready in minutes." },
+
+  { "name": "Teriyaki Tofu Stir-Fry", "cuisine": "Japanese", "tags": ["vegan"], "ingredients": ["tofu","soy sauce","mirin","broccoli","sesame oil"], "description": "Fast week-night stir-fry with sweet umami sauce." },
+
+  { "name": "Shakshuka", "cuisine": "Middle Eastern", "tags": ["vegetarian","gluten-free"], "ingredients": ["eggs","tomatoes","bell pepper","paprika","feta"], "description": "Eggs poached in spiced tomato sauce." },
+
+  { "name": "Greek Chickpea Gyros", "cuisine": "Greek", "tags": ["vegan"], "ingredients": ["pita","chickpeas","oregano","cucumber","tahini"], "description": "Plant-based twist on a street-food classic." },
+
+  { "name": "Butternut Squash Soup", "cuisine": "American", "tags": ["vegetarian","gluten-free"], "ingredients": ["butternut squash","vegetable stock","nutmeg","cream","thyme"], "description": "Velvety autumn comfort in a bowl." },
+
+  { "name": "Vietnamese Summer Rolls", "cuisine": "Vietnamese", "tags": ["pescatarian","gluten-free"], "ingredients": ["rice paper","shrimp","rice noodles","mint","peanut sauce"], "description": "Fresh hand-rolled appetisers." },
+
+  { "name": "Falafel Buddha Bowl", "cuisine": "Middle Eastern", "tags": ["vegan","gluten-free"], "ingredients": ["falafel","hummus","mixed greens","quinoa","tahini"], "description": "Nutrient-dense bowl with vibrant colours." },
+
+  { "name": "Beetroot & Goat-Cheese Salad", "cuisine": "European", "tags": ["vegetarian","gluten-free"], "ingredients": ["roasted beetroot","goat cheese","walnuts","arugula","balsamic"], "description": "Sweet beets meet tangy cheese." },
+
+  { "name": "Cajun Shrimp Skewers", "cuisine": "Cajun", "tags": ["pescatarian"], "ingredients": ["shrimp","cajun spice","bell pepper","olive oil","lemon"], "description": "Grilled spice-rubbed seafood in minutes." },
+
+  { "name": "Paneer Tikka", "cuisine": "Indian", "tags": ["vegetarian","gluten-free"], "ingredients": ["paneer","yogurt","garam masala","capsicum","lemon"], "description": "Smoky skewers from the tandoor tradition." },
+
+  { "name": "Quinoa Stuffed Peppers", "cuisine": "Mexican-Fusion", "tags": ["vegan","gluten-free"], "ingredients": ["bell peppers","quinoa","black beans","corn","cilantro"], "description": "Colourful oven-baked mains." },
+
+  { "name": "Garlic Lemon Tilapia", "cuisine": "Mediterranean", "tags": ["pescatarian","gluten-free"], "ingredients": ["tilapia fillets","garlic","lemon","parsley","olive oil"], "description": "Bright, flaky fish ready in 15 minutes." },
+
+  { "name": "Sweet-Potato Hash", "cuisine": "American", "tags": ["vegan","gluten-free"], "ingredients": ["sweet potato","black beans","red onion","paprika","avocado"], "description": "One-pan breakfast-for-dinner." },
+
+  { "name": "Pumpkin Spice Oatmeal", "cuisine": "American", "tags": ["vegetarian"], "ingredients": ["rolled oats","pumpkin purée","cinnamon","nutmeg","maple syrup"], "description": "Cozy bowl for chilly mornings." },
+
+  { "name": "Caprese Skewers", "cuisine": "Italian", "tags": ["vegetarian","gluten-free","snack"], "ingredients": ["cherry tomatoes","mozzarella","basil","balsamic glaze"], "description": "Party-friendly finger food." },
+
+  { "name": "Harissa Roasted Cauliflower", "cuisine": "North African", "tags": ["vegan","gluten-free"], "ingredients": ["cauliflower","harissa paste","cumin","lemon","parsley"], "description": "Spicy sheet-pan veg." },
+
+  { "name": "Barley & Kale Power Salad", "cuisine": "Fusion", "tags": ["vegan"], "ingredients": ["pearled barley","kale","cranberries","almonds","orange vinaigrette"], "description": "Hearty grain salad packed with micronutrients." },
+
+  { "name": "Blackberry Almond Smoothie", "cuisine": "Smoothie", "tags": ["vegan","gluten-free","breakfast"], "ingredients": ["blackberries","almond butter","banana","oat milk","chia"], "description": "On-the-go energy boost." },
+
+  { "name": "Lentil Shepherd’s Pie", "cuisine": "British", "tags": ["vegan"], "ingredients": ["brown lentils","carrots","celery","mashed potatoes","rosemary"], "description": "Plant-based comfort classic." }
+]
