@@ -6,7 +6,7 @@
 * **Vector RAG** – FAISS index built from `data/recipes_sample.json`.
 * **Conversation Memory** – remembers your tastes during the session.
 * **Prompt Tests with Pytest** – automated checks for dietary restrictions.
-* Optional **Streamlit UI**.
+* GUI **Streamlit UI**.
 
 ## 🖥️ Prerequisites
 
