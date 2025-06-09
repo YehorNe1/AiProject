@@ -1,0 +1,46 @@
+# promptfoo.yml
+
+env:
+  OPENAI_API_BASE_URL: "http://localhost:11434/v1"
+  OPENAI_API_KEY: "dummy-key"
+
+providers:
+  - openai:completion:llama3:8b
+
+prompts:
+  - file://prompts/prompts.yaml
+
+tests:
+  - prompt: vegan_peanut_free
+    assert:
+      - type: not-contains
+        value: peanut
+
+  - prompt: gluten_free
+    assert:
+      - type: not-contains-any
+        value:
+          - wheat
+          - bread
+          - pasta
+
+  - prompt: vegan_soy_free
+    assert:
+      - type: not-contains-any
+        value:
+          - soy
+          - tofu
+          - tempeh
+
+  - prompt: pescatarian
+    assert:
+      - type: contains-any
+        value:
+          - salmon
+          - tuna
+          - cod
+      - type: not-contains-any
+        value:
+          - chicken
+          - beef
+          - pork
